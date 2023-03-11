@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\bin\Debug\net6.0\CollectionsHashKey.exe
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\bin\Debug\net6.0\CollectionsHashKey.deps.json
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\bin\Debug\net6.0\CollectionsHashKey.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\bin\Debug\net6.0\CollectionsHashKey.dll
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\bin\Debug\net6.0\CollectionsHashKey.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\obj\Debug\net6.0\CollectionsHashKey.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\obj\Debug\net6.0\CollectionsHashKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\obj\Debug\net6.0\CollectionsHashKey.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\obj\Debug\net6.0\CollectionsHashKey.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\obj\Debug\net6.0\CollectionsHashKey.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\obj\Debug\net6.0\CollectionsHashKey.dll
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\obj\Debug\net6.0\refint\CollectionsHashKey.dll
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\obj\Debug\net6.0\CollectionsHashKey.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\obj\Debug\net6.0\CollectionsHashKey.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\CollectionsHashKey\CollectionsHashKey\obj\Debug\net6.0\ref\CollectionsHashKey.dll
